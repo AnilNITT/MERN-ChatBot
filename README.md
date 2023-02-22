@@ -1,2 +1,2 @@
-# Build and Deploy Your Own ChatBot AI Application That Will Help You
+# Build Your Own ChatBot AI Application That Will Help You
 <img src="./Capture.PNG" />
