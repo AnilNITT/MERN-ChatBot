@@ -24,11 +24,11 @@ body {
   background: url(https://images.pexels.com/photos/8566473/pexels-photo-8566473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: top;
 }
 
 .heads {
-/*   background: linear-gradient(45deg, #282828, white);
+/* background: linear-gradient(45deg, #282828, white);
  *//*   background: #000000; */  
  position: absolute;
   width: 100%;
@@ -42,6 +42,7 @@ body {
   margin-top: -2rem;
   background-image: url(https://images.pexels.com/photos/370717/pexels-photo-370717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
   background-position: center;
+  background-size: cover;
 }
 
 h1 {
